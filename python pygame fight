@@ -1,3 +1,5 @@
+#the photos have to be in the same folder as your game
+
 import pygame
 pygame.init()
 
